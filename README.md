@@ -1,4 +1,5 @@
 Predescu Ioan-Alexandru 313CB
+
 Functia SRD_fis parcurge un abrobe de tip fisier in ordinea stanga radacina dreapta
 si afiseaza numele acestuia.
 Functia SRD_dir parcurge un abrobe de tip fisier in ordinea stanga radacina dreapta
